@@ -1,6 +1,6 @@
 ## 🚨 Introduction
 
-This is the first iteration of [https://goldlee.netlify.app] built with Gatsby and hosted with [Netlify](https://Netlify.com).
+This is the first iteration of [https://goldee.netlify.app/] built with Gatsby and hosted with [Netlify](https://Netlify.com).
 
 If you have questions about implementation, please refer to the Gatsby docs.
 
